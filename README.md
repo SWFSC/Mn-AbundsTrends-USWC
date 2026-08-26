@@ -1,10 +1,15 @@
-# SWFSC-Template
+# Estimates of U.S. West Coast humpback whale stock abundances and trends: update for 2021-2024
 
-The README provides a description of the repository. The README file will vary greatly depending on the repo contents. 
+<!-- badges: start -->
+<!-- badges: end -->
 
-## License
+## Description
 
-User task: Choose an open source license, depending on the repo contents and the [latest NMFS guidance](https://nmfs-opensci.github.io/GitHub-Guide/#sec-license). You do not need to keep this 'License' section in your repo readme.
+This repository provides the final R scripts and results associated with the publication
+
+INSERT FINAL REFERENCE HERE
+
+Data for this analysis are maintained by Cascadia Research Collective (https://cascadiaresearch.org/).
 
 ## Disclaimer
 
