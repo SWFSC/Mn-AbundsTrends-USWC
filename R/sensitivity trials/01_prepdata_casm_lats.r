@@ -1,3 +1,6 @@
+# Prepare data for sensitivity trial for space parameterization in terms of latitude rather than along-coast distance (assess associated difference from Curtis et al 2022)
+# Author: K. Alexandra Curtis <alex.curtis@noaa.gov>
+
 ############ CREATE CENTRAL AMERICA / SOUTHERN MEXICO DATA SETS ############
 
 # loa libraries

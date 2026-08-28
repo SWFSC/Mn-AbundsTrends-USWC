@@ -1,5 +1,6 @@
-############ CREATE CENTRAL AMERICA / SOUTHERN MEXICO DATA SETS ############
-
+# Pre-processing for CASM data sets
+# Author: K. Alexandra Curtis <alex.curtis@noaa.gov>
+  
 # load libraries
 # pak::pkg_install("kacurtis/CMRutils")
 library(CMRutils)
@@ -87,7 +88,7 @@ sight.casm <- sight.win %>%
                             # lat>12 & lat<=13.25 ~ "5",   # S El Salvador/N Nicaragua (only two IDs in 2022 -> collapse with trap 6 for this analysis)
                             lat>12 & lat<=13.7 ~ "5",   # El Salvador
                             lat>13.7 & lat<=14.5 ~ "6",   # Guatemala
-                            # longitude split only with coastline distance parameterization of space
+                            # longitude split requires coastline distance parameterization of space
                             lat>14.5 & lat<=16.3 & lon>=(-96.7) ~ "7",   # Puerto Angel, Oaxaca
                             lat>14.5 & lat<=16.3 & lon<(-96.7) ~ "8",   # Puerto Escondido, Oaxaca
                             lat>16.3 ~ "9")) %>%   # Guerrero
@@ -171,7 +172,7 @@ y3d.cam.0406 <- dim_drop0(dim_drop0(y3d.cam[,,dimnames(y3d.cam)$occ %in% yy], 1)
 rm(yy)
 
 # import and arrange effort
-eff <- readr::read_csv("Effort data for Central America.csv", col_types = "cciciddiddc")
+eff <- readr::read_csv("../data/Effort data for CASM.csv", col_types = "cciciddiddc")
 eff <- eff %>% 
   arrange(occ, trapid) %>% 
   filter(trapid!="10" & occ %in% 2021:2024) %>% 

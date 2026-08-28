@@ -1,3 +1,7 @@
+# Prepare data for sensitivity trial for southern boundary location (assess associated difference from Curtis et al 2022)
+# Author: K. Alexandra Curtis <alex.curtis@noaa.gov>
+# adjust model.limit call in run script to stay at lat=19.2 for N limit
+
 ############ CREATE CENTRAL AMERICA / SOUTHERN MEXICO DATA SETS ############
 
 # load libraries
@@ -115,7 +119,7 @@ traplocs <- sight.casm %>% select(trapid, traplat, traplon) %>%
 # traplocs <- sort(unique(sight.casm$traplat))
 ## add population and model boundaries
 model.limits <- data.frame(label=c("alt S limit", "S limit", "N limit 1", "N limit 2", "N limit 3", "N limit 4", "N limit 5", "Jalisco corner", "N limit 6"),
-                     lat = c(7.2, 8.0, 17.9, 18.3, 18.6, 19, 19.2, 20.4, 20.8),
+                     lat = c(7.2, 8.0, 17.9, 18.3, 18.6, 19, 19.2, 20.4, 20.8),  
                      lon = c(-80.9, -82.9, -102.2, -103.5, -103.7, -104.4, -104.8, -105.7, -105.5))
 ### get straight-line distance in 100-km units among the trap and limit coordinates
 library(geodist)

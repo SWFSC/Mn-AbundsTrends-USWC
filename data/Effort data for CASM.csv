@@ -1,0 +1,69 @@
+trapid,Region,occ,Months,days.tot,hrs.tot,dist.tot,days.ded,hrs.ded,dist.ded,Comments
+1,Panama,2001,2,4,28,493,4,28,493,
+1,Panama,2002,2,6,27,626,6,27,626,
+1,Panama,2003,2,4,27,695,4,27,695,
+1,Panama,2018,"2,3",12,90.5,1034,12,90.5,1034,
+1,Panama,2019,NA,0,0,0,0,0,0,
+1,Panama,2020,NA,0,0,0,0,0,0,
+1,Panama,2021,2,7,59.6,936,7,59.6,936,"Two days of opportunistic effort were included in 2022 TM Table 2 but not here (2-3 hrs each, no sightings)."
+1,Panama,2022,"2,3",12,108.3,1798,12,108.3,1798,
+1,Panama,2023,NA,0,0,0,0,0,0,
+1,Panama,2024,NA,0,0,0,0,0,0,
+2,South Costa Rica,2018,NA,0,0,0,0,0,0,not confirmed zero effort but likely from email comms and sightings data
+2,South Costa Rica,2019,NA,0,0,0,0,0,0,
+2,South Costa Rica,2020,NA,0,0,0,0,0,0,not confirmed zero effort but likely from email comms and sightings data
+2,South Costa Rica,2021,"12,1,2,3",48,222.8,3774,4,NA,NA,"Includes 4 days of dedicated Photo-ID surveys, and 44 days of opportunistic surveys. Most likely includes 3d/11.8h/190.1 km opportunistic effort by Frank, since Kristin summarized data from both of them"
+2,South Costa Rica,2022,"11,12,1,2,3,4",95,600,9308,4,NA,NA,"includes 4 days of dedicated Photo-ID surveys, and 91 opportunistic surveys"
+2,South Costa Rica,2023,,NA,NA,NA,NA,NA,NA,
+2,South Costa Rica,2024,,NA,NA,NA,NA,NA,NA,
+3,North Costa Rica,2018,NA,0,0,0,0,0,0,
+3,North Costa Rica,2019,NA,0,0,0,0,0,0,
+3,North Costa Rica,2020,NA,0,0,0,0,0,0,
+3,North Costa Rica,2022,"1,2,3",13,111.4,1206,13,111.4,1206,All dedicated Photo-ID surveys
+3,North Costa Rica,2021,"1,2,3",9,93.3,990.1,9,93.3,990.1,All dedicated Photo-ID surveys
+3,North Costa Rica,2023,NA,0,0,0,0,0,0,No boreal winter effort for this season.
+3,North Costa Rica,2024,"1,2,3",11,85.8,594.1,11,85.8,594.1,All dedicated Photo-ID surveys
+4,Nicaragua,2018,"1,2,3,4",32,157.5,1676.2,32,157.5,1676.2,
+4,Nicaragua,2019,NA,0,0,0,0,0,0,Opportunistic data
+4,Nicaragua,2020,"1,2,3",15,98.5,1152.4,15,98.5,1152.4,
+4,Nicaragua,2021,"1,2,3,4",45,253,2947.6,45,253,2947.6,
+4,Nicaragua,2022,"1,2,3,4",44,242,2615.5,44,242,2615.5,
+4,Nicaragua,2023,"1,2,3,4",36,164,1777.1,36,164,1777.1,
+4,Nicaragua,2024,"12,1,2,3",33,213,2422.1,33,213,2422.1,
+5,El Salvador,2018,NA,0,0,0,0,0,0,
+5,El Salvador,2019,"12,1,2",34,110,1401,34,110,1401,sightings for this effort not in CRC MNID?
+5,El Salvador,2020,NA,0,0,0,0,0,0,"Altered sampling design with no sightings, so use zero or NA effort"
+5,El Salvador,2021,"2,3",41,129,1680,41,129,1680,
+5,El Salvador,2022,"12,1,2,3",83,268,3267,83,268,3267,
+5,El Salvador,2023,"11,12,1,2,3",69,258,2957,69,258,2957,Only 2 surveys conducted in November
+5,El Salvador,2024,"12,1,2,3",51,226,2506,51,226,2506,
+6,Guatemala,2018,,NA,NA,NA,NA,NA,NA,
+6,Guatemala,2019,"2,3",NA,NA,NA,NA,NA,NA,
+6,Guatemala,2020,NA,0,0,0,0,0,0,
+6,Guatemala,2021,2,8,NA,NA,NA,NA,NA,
+6,Guatemala,2022,,NA,NA,NA,NA,NA,NA,
+6,Guatemala,2023,NA,0,0,0,0,0,0,"There was effort in this season, but not reflected in CRC MNID."
+6,Guatemala,2024,NA,0,0,0,0,0,0,"There was effort in this season, but not reflected in CRC MNID."
+7,Oaxaca Puerto Angel,2018,1,6,33.73,300,NA,NA,NA,all flukes for this effort in HW / CRC MNID?
+7,Oaxaca Puerto Angel,2019,1,7,36.67,327,NA,NA,NA,all flukes for this effort in HW / CRC MNID?
+7,Oaxaca Puerto Angel,2020,2,1,NA,NA,NA,NA,NA,"Francisco has effort data, all flukes in HW / MN ID?"
+7,Oaxaca Puerto Angel,2021,"12,1,2,3",38,NA,NA,NA,NA,NA,Francisco has these data
+7,Oaxaca Puerto Angel,2022,"1,2,3",27,73,710,27,73,710,
+7,Oaxaca Puerto Angel,2023,,NA,NA,NA,NA,NA,NA,
+7,Oaxaca Puerto Angel,2024,,NA,NA,NA,NA,NA,NA,
+8,Oaxaca Puerto Escondido,2021,"2,3",9,80.68,936,9,80.68,936,
+8,Oaxaca Puerto Escondido,2022,"1,2",10,80.38,1093,10,80.38,1093,
+8,Oaxaca Puerto Escondido,2023,NA,0,0,0,0,0,0,
+8,Oaxaca Puerto Escondido,2024,NA,0,0,0,0,0,0,
+9,Guerrero,2018,"1,2,3",60,385,3608,,,,GPS logged distance
+9,Guerrero,2019,"1,2,3",30,130,1274,6,45.7,,distance travelled is rough estimate based on precise estimates using GPS logged travel per hour in 2017 & 2018 (2 relatively non-anomalous El Niño years)
+9,Guerrero,2020,"1,2,3",52,177,2549.6,16,76.7,934.5,
+9,Guerrero,2021,"12,1,2,3",46,206,2321.3,19,116.4,1079.5,Vessel hours (and thus km) missing for one day
+9,Guerrero,2022,"11,12,1,2,3",40,151,1809.2,14,81.3,619.1,
+9,Guerrero,2023,"12,1,2,3",53,119.43,1295.7,12,40.7,583.6,
+9,Guerrero,2024,"12,1,2,3",45,110.9,1351.9,7,11.3,216.7,All data double-checked 2020-2024. 
+10,Colima,2018,"11,1,2,3,4",17,142,1156,NA,NA,NA,"33 individuals photo-identified, from #269 to 301; sightings for this effort not in CRC MNID?"
+10,Colima,2019,"11,12,1,2",35,273.5,2027,NA,NA,NA,"48 individuals photo-identified, from #302 to 349; sightings for this effort not in CRC MNID?"
+10,Colima,2020,"11,12,1,2",26,193.5,2548,NA,NA,NA,"15 individuals photo-identified, from #350 to 364; sightings for this effort not in CRC MNID?"
+10,Colima,2021,"2,3,4",21,203.5,1281,NA,NA,NA,"38 individuals photo-identified, from #365 to 402; sightings for this effort not in CRC MNID?"
+10,Colima,2022,"12,1,2,3,4",29,258,2097,NA,NA,NA,"72 individuals photo-identified, from #403 to 464"

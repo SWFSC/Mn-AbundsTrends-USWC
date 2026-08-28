@@ -9,7 +9,7 @@ This repository provides the final R scripts and results associated with the pub
 
 INSERT FINAL REFERENCE HERE
 
-Data for this analysis are maintained by Cascadia Research Collective (https://cascadiaresearch.org/).
+Data for this analysis are maintained by Cascadia Research Collective (https://cascadiaresearch.org/), except for effort data, which were provided directly by the investigators and are included in the /data directory of this repository. We also provide a minimum dataset for photo-ID spatial capture histories, individual sex information, and trap location, which allows reproduction of the reported results, but requires some modifications to the scripts provided here to remove most pre-processing steps. 
 
 ## Disclaimer
 
