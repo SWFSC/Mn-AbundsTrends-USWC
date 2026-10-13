@@ -5,7 +5,7 @@
 
 ## Description
 
-This repository provides data, final R scripts, and results associated with the publication
+This repository provides final R scripts and results associated with the publication
 
 INSERT FINAL REFERENCE HERE
 
